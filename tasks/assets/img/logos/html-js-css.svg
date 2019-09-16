@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="544.82074"
+   height="160.20714"
+   viewBox="0 0 144.15048 42.388138"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="html-js-css.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-601.05369"
+     inkscape:cy="108.62993"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(186.44145,-147.28212)">
+    <g
+       transform="matrix(0.33938893,0,0,0.33938893,-103.3807,106.28745)"
+       id="layer1-3"
+       inkscape:label="Layer 1">
+      <polygon
+         transform="matrix(0.26458333,0,0,0.26458333,-144.653,78.185894)"
+         style="fill:#1673b6"
+         points="970.9,531.94 849.09,565.72 727.62,531.99 700.55,228.37 998,228.37 "
+         id="polygon37" />
+      <polygon
+         transform="matrix(0.26458333,0,0,0.26458333,-144.653,78.185894)"
+         style="fill:#35a9db"
+         points="947.7,512.62 970.86,253.2 849.28,253.2 849.28,539.9 "
+         id="polygon39" />
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-144.653,78.185894)"
+         id="g41">
+        <polygon
+           style="fill:#ffffff"
+           points="849.28,325.07 849.28,287.83 849.4,287.83 942.65,287.83 941.76,297.82 932.6,400.44 849.28,400.44 849.28,363.2 898.55,363.2 901.95,325.07 "
+           id="polygon43" />
+        <polygon
+           style="fill:#ebebeb"
+           points="849.5,498.65 849.5,459.91 849.34,459.95 807.86,448.75 805.21,419.06 785.06,419.06 767.83,419.06 773.05,477.52 849.33,498.7 "
+           id="polygon45" />
+        <polygon
+           style="fill:#ffffff"
+           points="925.71,477.52 926.27,471.23 932.75,398.86 895.39,398.86 890.9,448.73 849.37,459.94 849.37,498.68 "
+           id="polygon47" />
+        <polygon
+           style="fill:#ebebeb"
+           points="759.46,325.07 758.71,316.7 757.01,297.82 756.12,287.83 849.4,287.83 849.4,310.96 849.4,324.98 849.4,325.07 759.58,325.07 "
+           id="polygon49" />
+        <polygon
+           style="fill:#ebebeb"
+           points="808.33,400.44 807.58,392.07 805.88,373.2 804.99,363.2 849.28,363.2 849.28,386.33 849.28,400.35 849.28,400.44 808.45,400.44 "
+           id="polygon51" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.33938893,0,0,0.33938893,-188.43881,104.25266)"
+       id="layer1-1"
+       inkscape:label="Layer 1">
+      <polygon
+         transform="matrix(0.26458333,0,0,0.26458333,59.604011,84.186649)"
+         style="fill:#e45126"
+         points="296.35,531.92 174.54,565.69 53.07,531.97 26,228.35 323.45,228.35 "
+         id="polygon5" />
+      <polygon
+         transform="matrix(0.26458333,0,0,0.26458333,59.604011,84.186649)"
+         style="fill:#f1682b"
+         points="174.72,539.88 273.15,512.59 296.31,253.18 174.72,253.18 "
+         id="polygon7" />
+      <polygon
+         transform="matrix(0.26458333,0,0,0.26458333,59.604011,84.186649)"
+         style="fill:#ebebeb"
+         points="91.394,403.02 174.72,403.02 174.72,365.78 125.45,365.78 122.05,327.65 174.72,327.65 174.72,290.41 174.6,290.41 81.35,290.41 82.242,300.4 "
+         id="polygon9" />
+      <polygon
+         transform="matrix(0.26458333,0,0,0.26458333,59.604011,84.186649)"
+         style="fill:#ebebeb"
+         points="130.44,421.64 110.29,421.64 93.058,421.64 98.275,480.11 174.55,501.28 174.72,501.24 174.72,462.49 174.56,462.54 133.09,451.34 "
+         id="polygon11" />
+      <polygon
+         transform="matrix(0.26458333,0,0,0.26458333,59.604011,84.186649)"
+         style="fill:#ffffff"
+         points="174.6,462.52 174.6,501.27 250.94,480.11 251.5,473.82 260.25,375.78 261.15,365.78 251.12,365.78 174.6,365.78 174.6,403.02 220.45,403.02 216.13,451.31 "
+         id="polygon23" />
+      <polygon
+         transform="matrix(0.26458333,0,0,0.26458333,59.604011,84.186649)"
+         style="fill:#ffffff"
+         points="174.6,290.41 174.6,313.54 174.6,327.56 174.6,327.65 264.42,327.65 264.54,327.65 265.29,319.28 266.99,300.4 267.88,290.41 "
+         id="polygon25" />
+    </g>
+    <g
+       transform="matrix(0.33938893,0,0,0.33938893,-84.078122,119.63797)"
+       id="layer1-36"
+       inkscape:label="Layer 1">
+      <polygon
+         transform="matrix(0.26458333,0,0,0.26458333,-224.70968,71.456217)"
+         style="fill:#e4a227"
+         points="363.28,105.13 660.72,105.13 633.63,408.7 511.82,442.48 390.34,408.75 "
+         id="polygon55" />
+      <polygon
+         transform="matrix(0.26458333,0,0,0.26458333,-224.70968,71.456217)"
+         style="fill:#f0bf26"
+         points="511.75,129.58 511.75,416.29 610.18,389 633.34,129.58 "
+         id="polygon57" />
+      <polygon
+         transform="matrix(0.26458333,0,0,0.26458333,-224.70968,71.456217)"
+         style="fill:#ebebeb"
+         points="435.24,356.54 511.52,377.72 511.69,377.67 511.69,338.93 511.53,338.97 470.06,327.77 467.41,298.08 447.26,298.08 430.03,298.08 "
+         id="polygon65" />
+      <polygon
+         transform="matrix(0.26458333,0,0,0.26458333,-224.70968,71.456217)"
+         style="fill:#ebebeb"
+         points="439.81,171.4 431.06,269.44 430.15,279.44 440.19,279.44 516.71,279.44 516.71,242.2 470.86,242.2 476.23,183.76 516.81,182.68 516.71,143.95 442.56,143.95 "
+         id="polygon67" />
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-224.70968,71.456217)"
+         style="fill:#ffffff"
+         id="g39">
+        <polygon
+           points="591.61,151.63 516.63,143.94 516.46,143.98 516.46,182.73 516.62,182.68 557.29,185.13 560.74,223.58 580.89,223.58 598.12,223.58 "
+           id="polygon69" />
+        <polyline
+           points="594.28 182.84 591.09 143.95 512.49 143.95 512.49 168.11 512.49 182.75 512.49 182.84 594.28 182.84"
+           id="polyline71" />
+        <polygon
+           points="588.46,350.25 597.22,252.22 598.12,242.22 588.09,242.22 511.56,242.22 511.56,279.45 557.42,279.45 553.1,327.75 511.56,338.96 511.56,377.7 587.9,356.54 "
+           id="polygon73" />
+        <path
+           inkscape:connector-curvature="0"
+           d="M 589.5,181.19"
+           id="path75" />
+      </g>
+    </g>
+  </g>
+</svg>
