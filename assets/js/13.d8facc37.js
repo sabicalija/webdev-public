@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{264:function(e,t,n){"use strict";n.r(t);var r={name:"Ref",props:{id:{type:String,required:!0}}},i=n(4),s=Object(i.a)(r,(function(){var e=this.$createElement;return(this._self._c||e)("Link",{attrs:{type:"/references/",id:this.id}})}),[],!1,null,"2a58c0c2",null);t.default=s.exports}}]);
