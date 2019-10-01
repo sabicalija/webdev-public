@@ -1,8 +1,8 @@
 @font-face {
   font-family: "ubuntubold";
-  src: url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-bold-webfont.woff2")
+  src: url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-bold-webfont.woff2")
       format("woff2"),
-    url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-bold-webfont.woff")
+    url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-bold-webfont.woff")
       format("woff");
   font-weight: normal;
   font-style: normal;
@@ -10,9 +10,9 @@
 
 @font-face {
   font-family: "ubuntubold_italic";
-  src: url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-bolditalic-webfont.woff2")
+  src: url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-bolditalic-webfont.woff2")
       format("woff2"),
-    url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-bolditalic-webfont.woff")
+    url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-bolditalic-webfont.woff")
       format("woff");
   font-weight: normal;
   font-style: normal;
@@ -20,9 +20,9 @@
 
 @font-face {
   font-family: "ubuntuitalic";
-  src: url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-italic-webfont.woff2")
+  src: url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-italic-webfont.woff2")
       format("woff2"),
-    url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-italic-webfont.woff")
+    url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-italic-webfont.woff")
       format("woff");
   font-weight: normal;
   font-style: normal;
@@ -30,9 +30,9 @@
 
 @font-face {
   font-family: "ubuntulight";
-  src: url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-light-webfont.woff2")
+  src: url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-light-webfont.woff2")
       format("woff2"),
-    url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-light-webfont.woff")
+    url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-light-webfont.woff")
       format("woff");
   font-weight: normal;
   font-style: normal;
@@ -40,9 +40,9 @@
 
 @font-face {
   font-family: "ubuntulight_italic";
-  src: url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-lightitalic-webfont.woff2")
+  src: url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-lightitalic-webfont.woff2")
       format("woff2"),
-    url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-lightitalic-webfont.woff")
+    url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-lightitalic-webfont.woff")
       format("woff");
   font-weight: normal;
   font-style: normal;
@@ -50,9 +50,9 @@
 
 @font-face {
   font-family: "ubuntumedium";
-  src: url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-medium-webfont.woff2")
+  src: url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-medium-webfont.woff2")
       format("woff2"),
-    url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-medium-webfont.woff")
+    url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-medium-webfont.woff")
       format("woff");
   font-weight: normal;
   font-style: normal;
@@ -60,9 +60,9 @@
 
 @font-face {
   font-family: "ubuntumedium_italic";
-  src: url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-mediumitalic-webfont.woff2")
+  src: url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-mediumitalic-webfont.woff2")
       format("woff2"),
-    url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-mediumitalic-webfont.woff")
+    url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-mediumitalic-webfont.woff")
       format("woff");
   font-weight: normal;
   font-style: normal;
@@ -70,9 +70,9 @@
 
 @font-face {
   font-family: "ubunturegular";
-  src: url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-regular-webfont.woff2")
+  src: url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-regular-webfont.woff2")
       format("woff2"),
-    url("https://raw.githubusercontent.com/sabicalija/webdev-public/master/assets/fonts/ubuntu/ubuntu-regular-webfont.woff")
+    url("https://sabicalija.github.io/webdev-public/assets/fonts/ubuntu/ubuntu-regular-webfont.woff")
       format("woff");
   font-weight: normal;
   font-style: normal;
