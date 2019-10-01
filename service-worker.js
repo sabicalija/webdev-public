@@ -21,11 +21,11 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "9fc7cefbd554f8082e4a58f17ff8e88b"
+    "revision": "91e18aeee2ae442aa4eebd29880a89a2"
   },
   {
-    "url": "assets/css/0.styles.1642439a.css",
-    "revision": "53ba9a8a10443f6b28a745dc78c5ed07"
+    "url": "assets/css/0.styles.eac4f185.css",
+    "revision": "59608b26f5e9569b50762a873eefa63f"
   },
   {
     "url": "assets/favicon/android-chrome-192x192.png",
@@ -58,6 +58,86 @@ self.__precacheManifest = [
   {
     "url": "assets/favicon/safari-pinned-tab.svg",
     "revision": "e1248a3ed1352a8d0ae3439d0724ca11"
+  },
+  {
+    "url": "assets/fonts/ubuntu/stylesheet.css",
+    "revision": "69ccf1ceadb439b80aeded0f8c447ca1"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-bold-webfont.woff",
+    "revision": "f58d27507335211a06b8aff41c6784d6"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-bold-webfont.woff2",
+    "revision": "71cd5f4011632f570eafeb7ddf14fef8"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-bolditalic-webfont.woff",
+    "revision": "ad880aa732bfdb09972da531bb2f3e89"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-bolditalic-webfont.woff2",
+    "revision": "ea3c1842c6f8f3559a482ef48b10438d"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-italic-webfont.woff",
+    "revision": "8bc01e6423fedd5b6a779fc974ef27d7"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-italic-webfont.woff2",
+    "revision": "3610ec965e7134441d29b5be269eaf52"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-light-webfont.woff",
+    "revision": "ea1f05b5ac614c8a0e33f91e4fecd77d"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-light-webfont.woff2",
+    "revision": "2050f2a86d1b8c69c2fe73ca6f994352"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-lightitalic-webfont.ttf",
+    "revision": "d9970d03b181274ccb736ac9e3b7b2ae"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-lightitalic-webfont.woff",
+    "revision": "98c016df8679dd36ea96dc3876a22a7c"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-lightitalic-webfont.woff2",
+    "revision": "028b80e7431adf86450ca1e3203e3f88"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-medium-webfont.woff",
+    "revision": "b62d641e13f2e11e0177ab1de2a9ed6f"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-medium-webfont.woff2",
+    "revision": "ce7734ac839e15ff04b274c9270b33d2"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-mediumitalic-webfont.ttf",
+    "revision": "d2c6ca5e421f2c85be6db292fe608779"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-mediumitalic-webfont.woff",
+    "revision": "3284976e395348776f6fe3f85d1d0565"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-mediumitalic-webfont.woff2",
+    "revision": "c3899d3e548327e186a05698f69f65f9"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-regular-webfont.ttf",
+    "revision": "ac59aeedd21ef0a2cafbe27a659755d0"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-regular-webfont.woff",
+    "revision": "bc8de4e13923745ca2b2bca40c259673"
+  },
+  {
+    "url": "assets/fonts/ubuntu/ubuntu-regular-webfont.woff2",
+    "revision": "91eeaad994ca44a5561bbe48bcb1034e"
   },
   {
     "url": "assets/img/icons/169-light-custom.svg",
@@ -176,60 +256,60 @@ self.__precacheManifest = [
     "revision": "3cff175bbd310f56496b49ed5ce47285"
   },
   {
-    "url": "assets/js/20.fc6944d8.js",
-    "revision": "5ba0785ac3a2a03365e2b5416e0c1c2b"
+    "url": "assets/js/20.2fd6ec23.js",
+    "revision": "3f9ed26e5b3c433197f96c7aed2bc35c"
   },
   {
-    "url": "assets/js/21.1416fe58.js",
-    "revision": "0d1e6a31dac3e6b7d054473106d351d4"
+    "url": "assets/js/21.80509141.js",
+    "revision": "1723bbe92aaa7f64b0ae1191f7f4e733"
   },
   {
-    "url": "assets/js/22.9684b89d.js",
-    "revision": "5646d0865550fb2fbdd2a4ae59170c8d"
+    "url": "assets/js/22.5f1186e5.js",
+    "revision": "6d7199547a9662872bda15d93804b374"
   },
   {
     "url": "assets/js/23.4565a736.js",
     "revision": "7b2cdff793798ae5f20bd44cd3c500c0"
   },
   {
-    "url": "assets/js/24.448a2508.js",
-    "revision": "368d6556dfe9a22d93cb082b69433e3c"
+    "url": "assets/js/24.5b43e821.js",
+    "revision": "d49f252f4111a8370d463d18a86b5185"
   },
   {
-    "url": "assets/js/25.544f1bf2.js",
-    "revision": "bbf4f8cceb58ba288227cd237c8e7175"
+    "url": "assets/js/25.95b09dcf.js",
+    "revision": "37c46193d741610d2429fd6ff062fba6"
   },
   {
-    "url": "assets/js/26.5042afbe.js",
-    "revision": "71ffd93bfac8480c50575d8cb6036ee2"
+    "url": "assets/js/26.a6ea5b4f.js",
+    "revision": "8994234adf7b668d524c803e530f462a"
   },
   {
-    "url": "assets/js/27.7db5f7fb.js",
-    "revision": "d3a22d77ee7a5c5f65c873256e424d0e"
+    "url": "assets/js/27.639994fd.js",
+    "revision": "f47163513cf0f26fe5aff872033a2c04"
   },
   {
-    "url": "assets/js/28.6103fc69.js",
-    "revision": "955f8e139dbf4b95fa69204750f5a94b"
+    "url": "assets/js/28.32473590.js",
+    "revision": "bf0db53eaccc36a73cee3685580ed17f"
   },
   {
-    "url": "assets/js/29.3c655286.js",
-    "revision": "b1a1111cfff175d15077e06ddf243bd9"
+    "url": "assets/js/29.ce124e6c.js",
+    "revision": "d92d3d889e76ffd22fe24cef21391ee5"
   },
   {
-    "url": "assets/js/30.03765261.js",
-    "revision": "06cc0a502a09c411e9b8e1608e7928c2"
+    "url": "assets/js/30.5783de48.js",
+    "revision": "d58d3c21cbab7125ffa1a1f473f6b06d"
   },
   {
-    "url": "assets/js/31.131db8a5.js",
-    "revision": "046088a8c2ec4626ba14c1f1a8187060"
+    "url": "assets/js/31.68f99f03.js",
+    "revision": "b69ba2713f03187e04de47a3125511c5"
   },
   {
-    "url": "assets/js/32.b38d377e.js",
-    "revision": "8d318460fa3ead3fcfa254654095f7d1"
+    "url": "assets/js/32.1c95324b.js",
+    "revision": "e5e082ed92793f5e7c827b9c246b0f63"
   },
   {
-    "url": "assets/js/33.5c8d39ee.js",
-    "revision": "8a0f7bd712d122da354b84139f721d69"
+    "url": "assets/js/33.c2cabc9d.js",
+    "revision": "fe634d84c79a313c032450a1273cfca5"
   },
   {
     "url": "assets/js/34.3e7a4e32.js",
@@ -240,16 +320,16 @@ self.__precacheManifest = [
     "revision": "60349ce2d111833a7e213558309b3a26"
   },
   {
-    "url": "assets/js/36.1d332400.js",
-    "revision": "54971b54cd4e094d022455c43221170f"
+    "url": "assets/js/36.24f084b5.js",
+    "revision": "4c26b9f61941610aa444fa2f1880af3e"
   },
   {
-    "url": "assets/js/37.59221665.js",
-    "revision": "1ab8b714727f2525a1c6eab9d1db0bde"
+    "url": "assets/js/37.8d7029a5.js",
+    "revision": "02977c87dc6030f12a37babfd9b33901"
   },
   {
-    "url": "assets/js/38.4465093d.js",
-    "revision": "a7b93fb14583371a6a8ff2db0acab8da"
+    "url": "assets/js/38.83432d53.js",
+    "revision": "c1592cbee731676c637bbcbfaa46084e"
   },
   {
     "url": "assets/js/39.0f6730e6.js",
@@ -288,116 +368,116 @@ self.__precacheManifest = [
     "revision": "578e8ff49e14d91b7da98ebccd10a9a7"
   },
   {
-    "url": "assets/js/app.e363a081.js",
-    "revision": "de04e8770d910b7f2e0b6a59c89756e0"
+    "url": "assets/js/app.60af60f5.js",
+    "revision": "e9fa526191d78b65eca166696153c677"
   },
   {
     "url": "course/description.html",
-    "revision": "a4444af857a93e232d9584c3a5e189b7"
+    "revision": "d99507c683d865874602e230710e9167"
   },
   {
     "url": "course/schedule.html",
-    "revision": "21d7d3db1c47713304d3e70d37847ede"
+    "revision": "d3de0e2268d554b4481a78d3d766138e"
   },
   {
     "url": "guide/apis/index.html",
-    "revision": "8092cb8d261001815e93a4619b9bd205"
+    "revision": "ab32378c9e81e3e143c8293330b3f61c"
   },
   {
     "url": "guide/browser/index.html",
-    "revision": "fdde836f1f6e6871fbd53928c8bc32f3"
+    "revision": "8100bc42a4afd576085c239f90f33d2a"
   },
   {
     "url": "guide/css/index.html",
-    "revision": "6e752897ab565e6e16a8046e847967d8"
+    "revision": "a7d94708ae75193b4215b022f4ac473b"
   },
   {
     "url": "guide/dom/index.html",
-    "revision": "9df17cdd582588f25714195feddf7784"
+    "revision": "0f1b18706055c2c733561371291d143e"
   },
   {
     "url": "guide/getting-started/index.html",
-    "revision": "234d6ffbee384080e56908fb1c8d7f74"
+    "revision": "3752eee83e63b78146f1a74cbffdabc1"
   },
   {
     "url": "guide/html/index.html",
-    "revision": "819accfcecf5526d89601c0136cd1d56"
+    "revision": "d0e2d91dacce7325c363869f84c5465d"
   },
   {
     "url": "guide/index.html",
-    "revision": "1ba5d076e8f48ab2073bc1b81d0ce480"
+    "revision": "e1a259466f0304ff3f85f0ad93813786"
   },
   {
     "url": "guide/javascript/index.html",
-    "revision": "5f2ee2c7b3d54cd12bc89232d0bc96d8"
+    "revision": "0ee9fcd6f9503cb8b0aedf2b7de55e30"
   },
   {
     "url": "guide/node/index.html",
-    "revision": "c621c6dd58f6d551a9388db377893957"
+    "revision": "0c605b011efe2abcba86f9382207e9d2"
   },
   {
     "url": "guide/vue/index.html",
-    "revision": "fbd5d75d5d3787bb64524f565aa13c54"
+    "revision": "44fd8907c8a7cb46c8457db52903d075"
   },
   {
     "url": "index.html",
-    "revision": "8fe451b21290d7a061dfb1ea578fb2a7"
+    "revision": "96765a200fc9095fa3b54d109c58b305"
   },
   {
     "url": "projects/index.html",
-    "revision": "04e0d37125d9ab93dbf6cfdd7590101a"
+    "revision": "887567939095bfad5d894c1ecd23e723"
   },
   {
     "url": "projects/project-01.html",
-    "revision": "b7972accb89e95ba37f62a7e53a74604"
+    "revision": "cac50173eb8b5ed31d69b850dfbd836a"
   },
   {
     "url": "projects/project-02.html",
-    "revision": "2e5c9f358a4c6c3981ed9d42bd1f94e9"
+    "revision": "d6439faf020ef48ac4e2183d45ef5101"
   },
   {
     "url": "references/book-02.html",
-    "revision": "f4742ec0fc383f3e73968cf5e9516b46"
+    "revision": "04cf5d0ca14dde304f9c7dfbeb8f1e28"
   },
   {
     "url": "references/css/css-definitive-guide.html",
-    "revision": "ff65d7598ea452689da67f0ecf0dd58e"
+    "revision": "f253690b62d0d52b30283b74d1588a6c"
   },
   {
     "url": "references/general/high-performance-browser-networking.html",
-    "revision": "d7dc41cb14d7fe159ddee46fac973565"
+    "revision": "8143b3df1bbcfde5e2bc7eeffa0a876b"
   },
   {
     "url": "references/html/book-03.html",
-    "revision": "1ef6ced9627c04904a5ac5fd38e9be9e"
+    "revision": "6f49fa0a12fe38c5e877b5e63eac6c44"
   },
   {
     "url": "references/html/book-04.html",
-    "revision": "9a8a7b256b812f555fff0f7794eaaf81"
+    "revision": "f454c0db6553a3c3e13b9abb5006e2ae"
   },
   {
     "url": "references/html/one/book-05.html",
-    "revision": "2304cbb1371424d30a473ce3c0ae63d6"
+    "revision": "4fca6a93ab1fb8d649e7f107396246c6"
   },
   {
     "url": "references/index.html",
-    "revision": "26c0df294cec5fc876b0c15006c572aa"
+    "revision": "efaa793ba0a596d048e75f97a1555ae4"
   },
   {
     "url": "slides/lecture-01.html",
-    "revision": "15fe92ad40c1c39eb8b1ef9d25af5811"
+    "revision": "e4ca01c021e6f762d91a9af72e0a2ec8"
   },
   {
     "url": "slides/lecture-03.html",
-    "revision": "938f6ac79577dd0d285f8fd3a7584bf2"
+    "revision": "9b259fb69e36fd8e1bb40f45ba12f395"
   },
   {
     "url": "tasks/task1.html",
-    "revision": "6777f3cfc382a33ac860b500f7704902"
+    "revision": "da6441405c6ff6158ab61b7ca94fa475"
   },
   {
     "url": "tasks/task2.html",
-    "revision": "a5e1e639af0b6473deb30689250a634a"
+    "revision": "cd93e6251b337b78d0336023fc7e15e6"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
