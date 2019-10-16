@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{264:function(t,e,n){"use strict";n.r(e);var s={},i=n(4),r=Object(i.a)(s,(function(){var t=this.$createElement;this._self._c;return this._m(0)}),[function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("span",[this._v("Cards")])])}],!1,null,"40787783",null);e.default=r.exports}}]);
